@@ -45,6 +45,10 @@ sudo systemctl start docker
 
 sudo docker run hello-world
 ```
+# docker shell
+```
+bash <(curl -sSL https://cdn.jsdelivr.net/gh/SuperManito/LinuxMirrors@main/DockerInstallation.sh)
+```
 
 # docker(ubuntu)
 
