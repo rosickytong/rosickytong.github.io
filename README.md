@@ -17,6 +17,7 @@ go version
 # v2ray
 
 `bash <(curl -s -L https://git.io/v2ray.sh)`
+`https://github.com/2dust/v2rayN/releases`
 
 # x-ui
 
