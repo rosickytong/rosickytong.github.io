@@ -1,0 +1,9 @@
+{
+  "routes": [
+    { 
+      "src": "/",
+      "dest": "/README.md",
+      "headers": { "Content-Type": "text/markdown" }
+    }
+  ]
+}
